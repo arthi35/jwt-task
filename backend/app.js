@@ -8,12 +8,14 @@ const users = [
     id: "1",
     username: "john",
     password: "John0908",
+    phoneNr:"854321235",
     isAdmin: true,
   },
   {
     id: "2",
     username: "jane",
     password: "Jane0908",
+    phoneNr:"754321890",
     isAdmin: false,
   },
 ];
